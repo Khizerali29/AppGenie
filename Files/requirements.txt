@@ -1,0 +1,10 @@
+torch
+langchain
+transformers
+sentence-transformers
+langchain
+langchain-community
+tqdm
+accelerate
+pypdf
+faiss-gpu
